@@ -70,6 +70,7 @@
 (require 'prelude-shell)
 (require 'prelude-yaml)
 (require 'prelude-c)
+(require 'prelude-python)
 
 ;;; ---------------------------------------------------------------
 ;;; GUI only -- the full IDE setup
@@ -115,7 +116,6 @@
 ;; (require 'prelude-literate-programming)
 ;; (require 'prelude-lua)
 ;; (require 'prelude-ocaml)
-;; (require 'prelude-python)
 ;; (require 'prelude-racket)
 ;; (require 'prelude-ruby)
 ;; (require 'prelude-rust)
